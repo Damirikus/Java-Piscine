@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="652824fb-4e82-4e3b-b61f-755f3e73778c" name="Changes" comment="" />
+    <list default="true" id="3f5e665f-852e-4c47-b665-60a1f1cc62f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ex00/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex00/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex00/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/UserIdsGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/UserIdsGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/UsersArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/UsersList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/TransactionsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/TransactionsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/UserIdsGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/UsersArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03/UsersList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/TransactionsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/TransactionsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/TransactionsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/UserIdsGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/UsersArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04/UsersList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/TransactionsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/TransactionsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/TransactionsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/UserIdsGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/UsersArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05/UsersList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +53,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -22,7 +69,10 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="ProjectId" id="27y3bn5ska4v7RhVnLVUjSWJfdx" />
+  <component name="ProjectId" id="27zJ329hDjKLneVmbEqOUQ0QNKV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,11 +81,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ex05" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex05" />
+      <recent name="$PROJECT_DIR$/src/ex04" />
+      <recent name="$PROJECT_DIR$/src/ex03" />
+      <recent name="$PROJECT_DIR$/src/ex02" />
+      <recent name="$PROJECT_DIR$/src/ex01" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Program" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex03.Program" />
-      <module name="ex04" />
+      <option name="MAIN_CLASS_NAME" value="ex05.Program" />
+      <module name="day01" />
+      <option name="PROGRAM_PARAMETERS" value="--profile=dev" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -44,16 +105,29 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="652824fb-4e82-4e3b-b61f-755f3e73778c" name="Changes" comment="" />
-      <created>1650278571608</created>
+      <changelist id="3f5e665f-852e-4c47-b665-60a1f1cc62f3" name="Changes" comment="" />
+      <created>1650316777962</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650278571608</updated>
-      <workItem from="1650278572812" duration="22526000" />
+      <updated>1650316777962</updated>
+      <workItem from="1650316779296" duration="3360000" />
+      <workItem from="1650355254735" duration="36546000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
