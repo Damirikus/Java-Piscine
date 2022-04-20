@@ -2,48 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f5e665f-852e-4c47-b665-60a1f1cc62f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex00/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex00/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex00/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex01/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex01/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex01/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex01/UserIdsGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex02/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex02/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex02/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex02/UserIdsGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex02/UsersArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex02/UsersList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/TransactionsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/TransactionsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/UserIdsGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/UsersArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex03/UsersList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/TransactionsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/TransactionsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/TransactionsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/UserIdsGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/UsersArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex04/UsersList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/TransactionsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/TransactionsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/TransactionsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/UserIdsGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/UsersArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/UsersList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex00/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex00/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex05/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex05/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex05/TransactionsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex05/TransactionsService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +75,7 @@
       <updated>1650316777962</updated>
       <workItem from="1650316779296" duration="3360000" />
       <workItem from="1650355254735" duration="36546000" />
+      <workItem from="1650441680308" duration="2434000" />
     </task>
     <servers />
   </component>

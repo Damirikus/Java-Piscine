@@ -1,7 +1,5 @@
 package ex05;
 
-import javax.xml.namespace.QName;
-import java.security.spec.ECField;
 import java.util.Scanner;
 import java.util.UUID;
 
@@ -44,6 +42,9 @@ public class Menu {
         while (true){
             Scanner scanner = new Scanner(System.in);
             try {
+                if (service.getUsersList().size() == 0){
+                    return "No user!";
+                }
                 int id = scanner.nextInt();
                 String name = service.getUsersList().getById(id).getName();
                 return name + " - " + service.getBalanceById(id);
@@ -127,7 +128,7 @@ public class Menu {
                         } else {
                             System.out.println("Transfer To " + t.getRecipient().getName() +
                                     "(id = " + t.getRecipient().getId()  + ") " +
-                                    t.getTransferAmount() + " removed");
+                                    -t.getTransferAmount() + " removed");
                         }
                     }
                 }
@@ -169,7 +170,6 @@ public class Menu {
         }
     }
 
-
     public static void printMenuStandard(){
         System.out.println("1. Add a user");
         System.out.println("2. View user balance");
@@ -177,7 +177,6 @@ public class Menu {
         System.out.println("4. View all transactions for a specific user");
         System.out.println("5. Finish execution");
     }
-
 
     public static void printMenuDev(){
         System.out.println("1. Add a user");
@@ -188,7 +187,4 @@ public class Menu {
         System.out.println("6. DEV - check transfer validity");
         System.out.println("7. Finish execution");
     }
-
-
-
 }

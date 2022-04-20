@@ -1,5 +1,6 @@
 package ex05;
 
+import java.util.Arrays;
 import java.util.UUID;
 
 public class TransactionsService {
@@ -59,6 +60,7 @@ public class TransactionsService {
                 User u = usersList.getByIndex(i);
                 Transaction[] inner = u.getTransactionsList().toArray();
                 Transaction[] result = list.toArray();
+
                 for (int k = 0; k < inner.length; k++){
                     boolean flag = false;
                     for (int j = 0; j < result.length; j++){

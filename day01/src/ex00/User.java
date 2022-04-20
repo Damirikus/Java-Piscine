@@ -9,7 +9,7 @@ public class User {
 
 
     public User(int id, String name, long balance) {
-        this.id = id; // надо нормально сделать айди
+        this.id = id;
         this.name = name;
         setBalance(balance);
     }
