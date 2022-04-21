@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f5e665f-852e-4c47-b665-60a1f1cc62f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day03/src/ex00/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/ex01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/src/ex02/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex00/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex00/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex05/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex05/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex05/TransactionsLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex05/TransactionsLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex05/TransactionsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex05/TransactionsService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +79,9 @@
       <workItem from="1650316779296" duration="3360000" />
       <workItem from="1650355254735" duration="36546000" />
       <workItem from="1650441680308" duration="2434000" />
+      <workItem from="1650444687692" duration="5066000" />
+      <workItem from="1650454882431" duration="205000" />
+      <workItem from="1650474865412" duration="862000" />
     </task>
     <servers />
   </component>

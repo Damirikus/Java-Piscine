@@ -146,9 +146,10 @@ public class Menu {
 
     public static void checkTransfers(){
         try {
-            System.out.println("Check");
+            System.out.println("Check results:");
             Transaction[] transactions = service.checkAllTransactions();
-            if (transactions.length > 0){
+            System.out.println("Check results:");
+            if (transactions != null && transactions.length > 0){
                 for (Transaction t : transactions){
                     if (t.getTransferAmount() > 0){
                         System.out.println(t.getRecipient().getName() +

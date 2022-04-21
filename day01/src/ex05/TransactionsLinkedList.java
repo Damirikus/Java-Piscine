@@ -26,7 +26,7 @@ public class TransactionsLinkedList implements TransactionsList {
     public void deleteById(UUID uuid) {
         Transaction current = first;
         while (current != null){
-            if (current.getId() == uuid){
+            if (current.getId().equals(uuid)){
                 if (current.getNext() == null && current.getPrev() == null){
                     first = null;
                     last = null;
@@ -54,10 +54,13 @@ public class TransactionsLinkedList implements TransactionsList {
 
     @Override
     public Transaction[] toArray() {
+        if (size == 0){
+            return null;
+        }
         Transaction[] transactions = new Transaction[size];
         Transaction current = first;
         int i = 0;
-        while (current != null){
+        while (i < size){
             transactions[i] = current;
             current = current.getNext();
             i++;
