@@ -1,13 +1,8 @@
 package ex02;
 
-import java.util.Arrays;
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.BlockingQueue;
-
 public class Main {
 
     private static int[] res;
-
 
     public static void main(String[] args) throws InterruptedException {
         if (args.length != 2){
