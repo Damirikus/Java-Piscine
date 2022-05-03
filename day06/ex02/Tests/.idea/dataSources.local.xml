@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-211.7442.40">
+    <data-source name="HSQLDB (Local)" uuid="4bfe2c5d-b669-49bc-a365-e4ce4340ea83">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="HSQLDB" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

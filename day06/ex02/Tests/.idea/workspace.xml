@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8911be1-8cc5-4b97-adaf-ccacec59805b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="28KJiYjdPQCRRihHzpgN1THiUGM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hsqldb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean compile test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductsRepositoryJdbcImplTest">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.Main" />
+      <module name="Tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmbeddedDataSourceTest.init" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.school21.repositories" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.repositories.EmbeddedDataSourceTest" />
+      <option name="METHOD_NAME" value="init" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsRepositoryJdbcImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.school21.repositories" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.repositories.ProductsRepositoryJdbcImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsRepositoryJdbcImplTest.findByIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.school21.repositories" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.repositories.ProductsRepositoryJdbcImplTest" />
+      <option name="METHOD_NAME" value="findByIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsRepositoryJdbcImplTest.saveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.school21.repositories" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.repositories.ProductsRepositoryJdbcImplTest" />
+      <option name="METHOD_NAME" value="saveTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsRepositoryJdbcImplTest.updateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.school21.repositories" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.repositories.ProductsRepositoryJdbcImplTest" />
+      <option name="METHOD_NAME" value="updateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ProductsRepositoryJdbcImplTest" />
+      <item itemvalue="JUnit.EmbeddedDataSourceTest.init" />
+      <item itemvalue="JUnit.ProductsRepositoryJdbcImplTest.findByIdTest" />
+      <item itemvalue="JUnit.ProductsRepositoryJdbcImplTest.updateTest" />
+      <item itemvalue="JUnit.ProductsRepositoryJdbcImplTest.saveTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductsRepositoryJdbcImplTest" />
+        <item itemvalue="JUnit.ProductsRepositoryJdbcImplTest.updateTest" />
+        <item itemvalue="JUnit.ProductsRepositoryJdbcImplTest.saveTest" />
+        <item itemvalue="JUnit.ProductsRepositoryJdbcImplTest.findByIdTest" />
+        <item itemvalue="JUnit.EmbeddedDataSourceTest.init" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8911be1-8cc5-4b97-adaf-ccacec59805b" name="Default Changelist" comment="" />
+      <created>1650959472579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650959472579</updated>
+      <workItem from="1650959474164" duration="4084000" />
+      <workItem from="1650964017076" duration="19000" />
+      <workItem from="1650964054765" duration="18000" />
+      <workItem from="1650964075961" duration="46000" />
+      <workItem from="1650964220365" duration="147000" />
+      <workItem from="1650964491008" duration="2819000" />
+      <workItem from="1650967730876" duration="361000" />
+      <workItem from="1650968466950" duration="4000000" />
+      <workItem from="1650974348037" duration="639000" />
+      <workItem from="1650975485982" duration="132000" />
+      <workItem from="1650975625384" duration="3646000" />
+      <workItem from="1651052758962" duration="71000" />
+      <workItem from="1651053409823" duration="152000" />
+      <workItem from="1651055224942" duration="111000" />
+      <workItem from="1651055370831" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tests$ProductsRepositoryJdbcImplTest.ic" NAME="ProductsRepositoryJdbcImplTest Coverage Results" MODIFIED="1651053515882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.school21.repositories.*</FILTER>
+    </SUITE>
+  </component>
+</project>
